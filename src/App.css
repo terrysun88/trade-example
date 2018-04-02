@@ -1,0 +1,57 @@
+.App {
+	width: 260px;
+	background-color: #F4F6F6;
+	padding: 20px 40px;
+}
+
+.header {
+	margin-bottom: 20px;
+}
+
+.account-balance-section, .trade-section, .for-section {
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+
+.account-balance-item {
+	padding: 0px 20px;
+}
+
+.account-type {
+	margin-right: 20px;
+}
+
+.select-box {
+	width: 227px;
+	margin-bottom: 5px;
+	-webkit-appearance: button; 
+   	-moz-appearance: button;
+   	-webkit-border-radius: 0px;
+   	appearance: button;
+   	border: 1px solid #AAA;
+   	font-size: inherit;
+   	overflow: hidden;
+   	padding: 5px 10px;
+   	text-overflow: ellipsis;
+   	white-space: nowrap;
+}
+
+option {
+	padding: 5px 10px;
+}
+
+.input-box {
+	width: 205px;
+	padding: 5px 10px;
+	font-size: inherit;
+	border: 1px solid #AAA;
+}
+
+
+button {
+	width: 250px;
+	padding: 25px;
+	background-color: blue;
+	color: #fff;
+	font-size: 20px;
+}
